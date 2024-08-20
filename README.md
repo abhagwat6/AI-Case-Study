@@ -20,9 +20,9 @@
 #### Recently raised $28.5M in Series B funding in April 2024.
 #### **Series B** funding was led by Nordstjernan Growth Fund, Sweeden and included other new investors Flat Capital, Inx International Ink Co, and Recurring Capital Partners. 
 #### New funds are slated to be used 
-##### <to scale the product>
-##### <invest in data enrichment and domain knowledge>, and 
-##### <to expand market presence>, according to the company’s press release.
+##### *to scale the product*
+##### *invest in data enrichment and domain knowledge*, and 
+##### *to expand market presence*, according to the company’s press release.
 
 ### **Business**
 #### Leading provider of AI-powered analytics for **manufacturing**.
