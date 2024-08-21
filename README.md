@@ -1,4 +1,4 @@
-# **TITLE – Emerging AI Company for Manufacturing Sector**
+# **Emerging AI Company for Manufacturing Sector**
 ## **Oden Technologies** < https://oden.io/> 
 ## **Introduction**
 ### The application of AI in manufacturing encompasses a wide range of use cases, such as predictive maintenance, supply chain optimization, quality control, and demand forecasting, offering a transformative approach to traditional processes. >New product development and quality control rank six and eight, respectively, in the application>, according to PwC.  It is also noteworthy that 66% of the manufacturers incorporate AI in their daily operations.  However, most of these manufacturers are in technology space, such as chips, electronics, medical devices, etc.  The advances have left traditional industries largely behind.  This is where Oden Technologies, subject of this case study, is stepping in to fill the void.   
@@ -78,7 +78,7 @@ Synergies Intelligent Systems. was founded in Boston by Dr. Chang Tsung Yao in 2
 #### Boots on the ground involvement in the design and implementation process with the clients
 #### The company’s software uses guided analytics.
  
-### **Core Metrics**
+### **Core Performance Metrics**
 #### Impact on First-Pass Yield 
 #### Man-Hour and cost savings
 #### Impact on Increase in manufacturing capacity
@@ -93,7 +93,7 @@ Synergies Intelligent Systems. was founded in Boston by Dr. Chang Tsung Yao in 2
 #### Part of the reason is also neglect by AI developers and technology companies.
 #### This gap was recognized by Oden Technologies.
 #### The company is making significant headway into this space.
-#### Although not yet profitable, the company is well-funded by the venture capitalists and the customers *https://www.pwc.de/en/digitale-transformation/the-perfect-match-digital-twins-and-reinforcement-learning/the-ai-agent-that-will-help-you-operate-your-business-even-better.html *
+#### Although not yet profitable, the company is well-funded by the venture capitalists and the customers.
 
 ### ** Addendum and References**
 #### The AI agent that will help you operate your business even better, PwC Article, August 3, 2023, *https://www.pwc.de/en/digitale-transformation/the-perfect-match-digital-twins-and-reinforcement-learning/the-ai-agent-that-will-help-you-operate-your-business-even-better.html*
@@ -103,5 +103,3 @@ Synergies Intelligent Systems. was founded in Boston by Dr. Chang Tsung Yao in 2
 #### Oden website **INX testimonials** *https://oden.io/inx-customer-story*
 #### Crunchbase.com, Funding capital – rounds and amount
 #### Lake Cable, ref. Wire Journal International, August 2024
-
-
